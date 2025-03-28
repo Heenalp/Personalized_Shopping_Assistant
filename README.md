@@ -17,7 +17,7 @@ E-commerce giants like Amazon and Walmart maximize sales through personalized re
 - **Deployment:** A Flask-based API that predicts user purchase behaviors and serves recommendations dynamically.
 
 ## Screenshots
-- UI 
+- Below are sample UI screenshots showcasing the Personalized Shopping Assistant web interface. These visuals highlight key features such as personalized recommendations 
 ![image](https://github.com/user-attachments/assets/cfa76ee7-75fa-4c01-827f-ce8448562b7b)
 
 
